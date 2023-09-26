@@ -9,7 +9,13 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
-
+# A Brief Biography 
+## Basic Personal Information
+* Name: Zhuoqing Li (you could also call me **Lorena**, which is my English name)
+* Pronouns: she/her/hers
+* Interests: For academics, I'm interested in **consumer behavior and psychology** during online shopping.
+* Hobbies: I love rap music, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice.
+  
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
