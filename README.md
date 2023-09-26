@@ -15,7 +15,9 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Pronouns: she/her/hers
 * Interests: For academics, I'm interested in **consumer behavior and psychology** during online shopping.
 * Hobbies: I love rap music, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice.
-  
+
+![This is a picture taken last weekend. I was taken this photo during walkinng around the M]
+/assets/images/electrocat.png
 
 https://github.com/MACS-30111-23/hw00-Lorena0526/blob/main/Picture.jpg
 
