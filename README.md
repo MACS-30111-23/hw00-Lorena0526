@@ -17,6 +17,9 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Hobbies: I love rap music, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice.
   
 
+https://github.com/MACS-30111-23/hw00-Lorena0526/blob/main/Picture.jpg
+
+
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
