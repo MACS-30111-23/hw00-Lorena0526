@@ -14,10 +14,16 @@ Hi! I'm Zhuoqing Li. I'm from Xinjiang, China. I graduated frome Peking Universi
 ## Basic Personal Information
 * English Name: **Lorena**
 * Pronouns: she/her/hers
+## Interests and Hobbies
 * Interests: For academics, I'm interested in **consumer behavior and psychology** during online shopping. 
 * Hobbies: I love _rap music_, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice. Moreover,I enjoy **Citywalks and photography**. Chicago is not yet a very familiar city to me. Therefore, exploring this city brings me a lot of joy. The photo below was taken during my _Architecture River Tour_ in downtown. [Links to buy tickets if you're interested in the Architecture River Tour](https://shorelinesightseeing.com/)
 
 ![This is a picture taken last weekend. I was taken this photo during riverwalk.](/Picture.jpg)
+
+# Learning outcome
+* A summary of the workflow: First, edit the README.md file and add required information to that file using basic writing and formatting syntax of github(Markdown).We could edit the file directly on the github or using other tools like VS Code. If just directly revising something on the github, after finishing the assignment, click "commit changes" button to commit the revised file to my GitHub repository. If using VS Code, we should commit changes and then push the changed file to the target GitHub repository.
+* Markdown: I learn more basic writing and formatting syntax during finishing the code, especially how to add links and image to the README.md file. We can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). We can display an image by adding ! and wrapping the alt text in [ ]. Then, wrap the link for the image in parentheses (). Something that surprised me was that if I had uploaded images to my repo, I could use relative links to display an image.
+
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
