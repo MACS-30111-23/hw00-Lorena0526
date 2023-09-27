@@ -10,17 +10,15 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
 # A Brief Biography 
+Hi! I'm Zhuoqing Li. I'm from Xinjiang, China. I graduated frome Peking University and my major is international political economy, but I'm not interesed in that field anymore. Instead of that, I have a strong passion for staying updated on the ever-changing market dynamics, the cutting-edge developments in AI, and how AI is revolutionizing the e-commerce industry. I believe that these areas hold immense potential for innovation and growth, and I aspire to leverage my skills and knowledge to make a meaningful impact. 
 ## Basic Personal Information
-* Name: Zhuoqing Li (you could also call me **Lorena**, which is my English name)
+* English Name: **Lorena**
 * Pronouns: she/her/hers
-* Interests: For academics, I'm interested in **consumer behavior and psychology** during online shopping.
-* Hobbies: I love rap music, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice.
+* Interests: For academics, I'm interested in **consumer behavior and psychology** during online shopping. 
+* Hobbies: I love _rap music_, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice. Moreover,I enjoy **Citywalks and photography**. Chicago is not yet a very familiar city to me. Therefore, exploring this city brings me a lot of joy. The photo below was taken during my _Architecture River Tour_ in downtown. [![Links to buy tickets if you're interested in the Architecture River Tour](https://shorelinesightseeing.com/)
 
-![This is a picture taken last weekend. I was taken this photo during walkinng around the M]
-/assets/images/electrocat.png
-
-https://github.com/MACS-30111-23/hw00-Lorena0526/blob/main/Picture.jpg
-
+![This is a picture taken last weekend. I was taken this photo during riverwalk.]
+/MACS-30111-23/hw00-Lorena0526/blob/main/Picture.jpg
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
