@@ -15,7 +15,7 @@ Hi! I'm Zhuoqing Li. I'm from Xinjiang, China. I graduated frome Peking Universi
 * English Name: **Lorena**
 * Pronouns: she/her/hers
 * Interests: For academics, I'm interested in **consumer behavior and psychology** during online shopping. 
-* Hobbies: I love _rap music_, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice. Moreover,I enjoy **Citywalks and photography**. Chicago is not yet a very familiar city to me. Therefore, exploring this city brings me a lot of joy. The photo below was taken during my _Architecture River Tour_ in downtown. [![Links to buy tickets if you're interested in the Architecture River Tour](https://shorelinesightseeing.com/)
+* Hobbies: I love _rap music_, and I also like _playing tennis_. Although I have learned to play tennis for two years, I think I'm still a green young novice. Moreover,I enjoy **Citywalks and photography**. Chicago is not yet a very familiar city to me. Therefore, exploring this city brings me a lot of joy. The photo below was taken during my _Architecture River Tour_ in downtown. [Links to buy tickets if you're interested in the Architecture River Tour](https://shorelinesightseeing.com/)
 
 ![This is a picture taken last weekend. I was taken this photo during riverwalk.]
 /MACS-30111-23/hw00-Lorena0526/blob/main/Picture.jpg
